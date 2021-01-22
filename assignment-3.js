@@ -1,4 +1,4 @@
-
+// https://github.com/Alamin-dev01/Assignment-03-javaScript
 
 // NO:1---
 function KilometerToMeter(kilometer) {
@@ -8,7 +8,7 @@ function KilometerToMeter(kilometer) {
     
  
  
-       return "Distance cannot negative"
+       return "Distance cannot be negative"
    }
    else {
        let meter = kilometer * 1000;
@@ -84,7 +84,7 @@ console.log(hotelCost(5));
 
 // NO:4---
 // Friends name
-NameofFriend=["Raian","Sammmmi","Sharmin"];
+NameofFriend=["Raian","Sammmmi","Sharmin","Munim"];
 
         function megeFirend(NameOfFriend) {
             let longestIndex = NameOfFriend[0];
